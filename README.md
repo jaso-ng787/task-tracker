@@ -6,3 +6,4 @@ ssh-agent caches keys; git push doesn't always require passphrase
 .bashrc auto-starts ssh-agent
 
 -am flag
+&& operator
